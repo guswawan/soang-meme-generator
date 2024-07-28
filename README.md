@@ -1,6 +1,7 @@
 
 🪿
 
+
 # About Project
 
 This tool allows users to create their own custom memes easily and quickly. This generator provides a simple yet effective way to add text to swan meme templates and share the results.
@@ -29,7 +30,6 @@ This tool allows users to create their own custom memes easily and quickly. This
 - Enable users to share their creativity quickly by offering a download option.
 
 
-## License
+Feel free to explore and have fun creating your own memes! If you encounter any issues or have suggestions for improvements, please let us know. Enjoy meme-making!
 
-[MIT](https://choosealicense.com/licenses/mit/)
-
+<img src="https://github.com/user-attachments/assets/aaecaab9-5e0c-469a-ba1b-2d3676085d62" width="500" />
